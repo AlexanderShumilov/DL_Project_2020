@@ -1,4 +1,9 @@
-#### All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
-If link is expired or non-valid, please PM any of team members, we will fix it right away.
+Weights were collected for all not pretrained models - Vgg16-like, ResNet-50, ResNet-152 - all '*.pth' files have names corresponding to ines that used in notebooks, but path to them always be different (we run experiments mounting colab on our google disks), so please make sure that code is modified correctly.
 
-Weights were collected for all not pretrained models - Vgg16-like, ResNet-50, ResNet-152
+#### All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
+
+#### All materials related to simpson dataset experiments on can be found here: https://drive.google.com/drive/folders/1OJYR8kc71j8yxC5NtValQ7VJTfD-Lhch?usp=sharing
+
+If links are expired or non-valid, please PM any of team members, we will fix it right away.
+
+
