@@ -1,7 +1,7 @@
 # DL_Project_2020
 ## Exploring Adversarial examples: Robust and Non-Robust features of pictures 
 
-Team 25
+Team 25: Vladimir Dmitriev, Alexander Shumilov, Veronika Zorina, Elizaveta Noskova
 
 Understanding adversarial examples is highly important problem in image classification, and due to it a lot ofresearch nowadays is connected to it. In our project we demonstrate that features in image classification problemcan be divided into robust and non-robust.  And the existence of non-robust features leads to the existence ofadversarial example. Based on the theoretical description of such features, we establish their widespread existencein standard datasets.
 
