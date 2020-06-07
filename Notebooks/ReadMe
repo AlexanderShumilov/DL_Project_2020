@@ -1,7 +1,9 @@
+#### All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
+If link is expired or non-valid, please PM any of team members, we will fix it right away.
+
 Notebooks used in this project:
 
 - Project_DL.ipynb - main notebook for reproduction results of chosen paper (Ilyas et al)
 - Simpsons (2).ipynb - full work on simpsons dataset (for some reason colab did not saved the plots and images upon download, but every main picture is in report and presentation video) 
 
-All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
-If link is expired or non-valid, please PM any of team members, we will fix it right away.
+
