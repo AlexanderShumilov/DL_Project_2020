@@ -1,6 +1,3 @@
-#### All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
-If link is expired or non-valid, please PM any of team members, we will fix it right away.
-
 Notebooks used in this project:
 
 - Project_DL.ipynb - main notebook for reproduction results of chosen paper (Ilyas et al)
@@ -9,3 +6,8 @@ Notebooks used in this project:
 - Attacks and non-robust dataset.ipynb - generation of adversarial attacks and creation of non-robust dataset
 - Robust dataset - also experiments for generation of robust dataset
 
+#### All materials related to replication of paper and experiments on can be found here: https://drive.google.com/drive/folders/1uMmB1yo79dNBWgJul8xm7cp1Zyc6jEjw
+
+#### All materials related to simpson dataset experiments on can be found here: https://drive.google.com/drive/folders/1OJYR8kc71j8yxC5NtValQ7VJTfD-Lhch?usp=sharing
+
+If links are expired or non-valid, please PM any of team members, we will fix it right away.
