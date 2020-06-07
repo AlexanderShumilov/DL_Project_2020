@@ -5,5 +5,7 @@ Notebooks used in this project:
 
 - Project_DL.ipynb - main notebook for reproduction results of chosen paper (Ilyas et al)
 - Simpsons (2).ipynb - full work on simpsons dataset (for some reason colab did not saved the plots and images upon download, but every main picture is in report and presentation video) 
-
+- robust_dataset_1.ipynb - experiments with robust network and robustness package
+- Attacks and non-robust dataset.ipynb - generation of adversarial attacks and creation of non-robust dataset
+- Robust dataset - also experiments for generation of robust dataset
 
